@@ -78,9 +78,6 @@
 		<loc>https://tigrebranco.org/karate_estudos_kobudo.html</loc>
 	</url>
 	<url>
-		<loc>https://tigrebranco.org/katate_estudos_kumite.html</loc>
-	</url>
-	<url>
 		<loc>https://tigrebranco.org/karate_estudos_diversos.html</loc>
 	</url>
 	<url>
@@ -151,5 +148,8 @@
 	</url>
 	<url>
 		<loc>https://tigrebranco.org/karate_aprenda_alinhar.html</loc>
+	</url>
+	<url>
+		<loc>https://tigrebranco.org/karate_estudos_kumite.html</loc>
 	</url>
 </urlset>
