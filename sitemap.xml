@@ -99,9 +99,6 @@
 		<loc>https://tigrebranco.org/karate_informacao_exames.html</loc>
 	</url>
 	<url>
-		<loc>https://tigrebranco.org/karate_informacoes_afiliacoes.html</loc>
-	</url>
-	<url>
 		<loc>https://tigrebranco.org/karate_sobre_principios.html</loc>
 	</url>
 	<url>
@@ -145,5 +142,11 @@
 	</url>
 	<url>
 		<loc>https://tigrebranco.org/karate_conduta_fora_do_dojo.html</loc>
+	</url>
+	<url>
+		<loc>https://tigrebranco.org/karate_afiliacoes.html</loc>
+	</url>
+	<url>
+		<loc>https://tigrebranco.org/karate_informacoes_campeonatos.html</loc>
 	</url>
 </urlset>
